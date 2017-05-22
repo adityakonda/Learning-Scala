@@ -8,5 +8,10 @@ object Main {
 
     // Move to a new location
     pt.move(10, 10);
+
+    // Aditya Branch
+    val loc = new Location(10, 20, 15);
+    loc.move(10, 10, 5);
+
   }
 }
